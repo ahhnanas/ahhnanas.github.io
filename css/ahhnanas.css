@@ -1,0 +1,10 @@
+body {
+	background-color: #000033;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #e6e6e6;
+}
+
+.main {
+	padding: 30px;
+	border: 2px solid #ffcc00;
+}
